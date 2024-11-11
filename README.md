@@ -1,3 +1,7 @@
+==========================================================================================================
+Fork contains chnages suggested [here](https://github.com/bitdump/BLHeli/issues/533)
+I'm trying to make the behavior of the BLDC motor resemble that of a brushed motor.
+==========================================================================================================
 This tree contains BLHeli code for sensorless brushless motor electronic speed control (ESC) boards.  
   
 To view and use the files, click the "Clone or download" button on this page,  
